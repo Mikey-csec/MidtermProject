@@ -1,9 +1,9 @@
 [
-  { "id": 1, "title": "Complete homework", "image": "complete-homework.png" },
+  { "id": 1, "title": "Complete homework", "image": "complete-homework.jpeg" },
   { "id": 2, "title": "Check email", "image": "check-email.png" },
   { "id": 3, "title": "Clean room", "image": "clean-room.png" },
   { "id": 4, "title": "Do laundry", "image": "do-laundry.png" },
-  { "id": 5, "title": "Buy groceries", "image": "buy-groceries.png" },
+  { "id": 5, "title": "Buy groceries", "image": "buy-groceries.jpeg" },
   { "id": 6, "title": "Take out the trash", "image": "take-out-the-trash.png" },
   { "id": 7, "title": "Wash the dishes", "image": "wash-the-dishes.png" },
   { "id": 8, "title": "Pay a bill", "image": "pay-a-bill.png" },
