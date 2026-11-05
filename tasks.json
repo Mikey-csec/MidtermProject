@@ -1,0 +1,22 @@
+[
+  { "id": 1, "title": "Complete homework", "image": "complete-homework.png" },
+  { "id": 2, "title": "Check email", "image": "check-email.png" },
+  { "id": 3, "title": "Clean room", "image": "clean-room.png" },
+  { "id": 4, "title": "Do laundry", "image": "do-laundry.png" },
+  { "id": 5, "title": "Buy groceries", "image": "buy-groceries.png" },
+  { "id": 6, "title": "Take out the trash", "image": "take-out-the-trash.png" },
+  { "id": 7, "title": "Wash the dishes", "image": "wash-the-dishes.png" },
+  { "id": 8, "title": "Pay a bill", "image": "pay-a-bill.png" },
+  { "id": 9, "title": "Exercise", "image": "exercise.png" },
+  { "id": 10, "title": "Go for a walk", "image": "go-for-a-walk.png" },
+  { "id": 11, "title": "Call someone", "image": "call-someone.png" },
+  { "id": 12, "title": "Schedule an appointment", "image": "schedule-an-appointment.png" },
+  { "id": 13, "title": "Study for an exam", "image": "study-for-an-exam.png" },
+  { "id": 14, "title": "Finish a project", "image": "finish-a-project.png" },
+  { "id": 15, "title": "Organize files", "image": "organize-files.png" },
+  { "id": 16, "title": "Clean the car", "image": "clean-the-car.png" },
+  { "id": 17, "title": "Make a to-do list", "image": "make-a-to-do-list.png" },
+  { "id": 18, "title": "Read a book", "image": "read-a-book.png" },
+  { "id": 19, "title": "Meal prep", "image": "meal-prep.png" },
+  { "id": 20, "title": "Get ready for bed", "image": "get-ready-for-bed.png" }
+]
